@@ -8,9 +8,9 @@
   <p>1.<a href="http://space.bilibili.com/10819469/#!/index">俺的bilibili主页</a></p>
   
   <h2 id="热门帖子">热门帖子</h2>
+  
+  <h2 id="最新帖子">最新帖子</h2>
 </blockquote>
-
-
 
 <h2 id="2016年的目录">2016年的目录</h2>
 
