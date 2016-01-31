@@ -70,7 +70,7 @@
 <img src="http://i4.tietuku.com/12c1c06c5acd0660.png" alt="enter image description here" title=""> <br>
 <img src="http://i4.tietuku.com/da13055422ed9b53.png" alt="enter image description here" title=""> <br>
 浓缩一句话:只需把每个内容体系装进一个文件夹，分享密钥即可。 <br>
-俺希望各位能加入俺的绅士补完企划。</p>
+俺希望各位能加入俺的<a href="https://github.com/th00/GentleLib/blob/master/Source%20System.md">绅士补完企划。</a></p>
 
 <blockquote>
   <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png"></a><br>本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
