@@ -1,8 +1,12 @@
 <h1 id="绅士仓库的目录">绅士仓库的目录</h1>
 
-<p>(依照时间顺序排列)</p>
+<p>(依照时间顺序排列，善用<code>Ctrl+F</code>)</p>
 
+<h2 id="置顶内容">置顶内容</h2>
 
+<blockquote>
+  <p>1.<a href="https://github.com/th00/GentleLib/blob/master/Source%20System.md">绅士补完企划</a></p>
+</blockquote>
 
 <h2 id="2016年的目录">2016年的目录</h2>
 
