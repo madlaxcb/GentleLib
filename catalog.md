@@ -17,6 +17,7 @@
 <h2 id="2016年的目录">2016年的目录</h2>
 
 <blockquote>
-  <p>1.<a href="https://github.com/th00/GentleLib/blob/master/New%20mind.md">绅士新思想</a> <br>
-  2.<a href="https://github.com/th00/GentleLib/blob/master/Dark%20history2016-01-31ii.md">互联网企业的黑历史</a></p>
+  <p>1.<a href="https://github.com/th00/GentleLib/blob/master/New%20mind.md">转入地下的分享——绅士新思维</a> <br>
+  2.<a href="https://github.com/th00/GentleLib/blob/master/Dark%20history2016-01-31ii.md">互联网企业的黑历史司法改革的必要性——浅谈大陆互联网大公司黑历史
+</a></p>
 </blockquote>
