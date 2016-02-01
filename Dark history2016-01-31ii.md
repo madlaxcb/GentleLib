@@ -7,4 +7,10 @@
 据新兴的，政府倡导的”互联网+”大潮中，有好事者提出了”BAT”的理论，但是”bat” <br>
 的词汇很不优雅，似乎在暗示这是以他们的黑历史数量多少排列的。如果按照势力和发展前途来看，似乎应该是”Tab”。</p>
 
+
+
 <h2 id="百度的黑历史">百度的黑历史</h2>
+
+<hr>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png"></a><br>本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>许可。</p>
