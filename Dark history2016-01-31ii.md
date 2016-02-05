@@ -28,13 +28,15 @@
 
 <hr>
 
-<h2 id="百度的黑历史">百度的黑历史</h2>
+<h1 id="百度的黑历史">百度的黑历史</h1>
 
 <p>显然，百度作为<a href="https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%AD%8C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%8B%E4%BB%B6">利用政策上位</a>(维基百科需梯子)的公司，其搜索引擎业务的水平真的难以恭维(相对谷歌与Bing而言)。</p>
 
 <hr>
 
-<h3 id="百度的黄段子俺向sox致敬">百度的黄段子(俺向SOX致敬)</h3>
+
+
+<h2 id="百度的黄段子俺向sox致敬">百度的黄段子(俺向SOX致敬)</h2>
 
 <p>这是当年把谷歌批判一番的那个节目。(保护未成年人隐私此图已经过处理) <br>
 <img src="http://i13.tietuku.com/1b867f230885ec39.png" alt="enter image description here" title=""> <br>
@@ -72,7 +74,7 @@
 
 <hr>
 
-<h3 id="百度对病人的忽悠">百度对病人的忽悠</h3>
+<h2 id="百度对病人的忽悠">百度对病人的忽悠</h2>
 
 <p>grjnbsbjlbr <br>
 gmrebm</p>
