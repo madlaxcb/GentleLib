@@ -21,17 +21,3 @@
   2.<a href="https://github.com/th00/GentleLib/blob/master/Dark%20history2016-01-31ii.md">互联网企业的黑历史司法改革的必要性——浅谈大陆互联网大公司黑历史
 </a></p>
 </blockquote>
-<!-- Duoshuo Comment BEGIN -->
-	<div class="ds-thread"></div>
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"internetke"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = 'http://static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		|| document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-<!-- Duoshuo Comment END -->
