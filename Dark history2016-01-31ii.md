@@ -4,9 +4,9 @@
 
 <hr>
 
-<p>由于某些依据相关法律法规<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B3%95%E6%B2%BB">不能说的原因</a>(维基百科需梯子)，我国的技术行业的法律体系并不怎么好(<a href="http://shzcfy.hshfy.sh.cn/">但是最近有所改观</a>),而且新领域很少利用<a href="http://auto.163.com/15/1010/19/B5JCHO4P00084TV1.html">旧领域的法律</a>。For example,在2010年的<a href="http://baike.baidu.com/link?url=yeYsiZj7-wpyuhszwhwGe5F0CtCSrQWcMKo9FIIcTfcRxK2WhrNkism35eeVx3qlJURNAMGtWRcPQkgQ24hhR7he8Xm7Td4q-cX3Y7QZxWLBOQ81xs17EJIYWXir9Atw8iwjvrXYOPFbGoc4h5Hi72jAnRAX5W954Nxz0QRYliu">“3Q大战”</a>，腾讯和360就像《<a href="http://www.bilibili.com/video/av3584963/">孩子气的战争</a>》里的镜音双子，互投掷幼稚的餐刀。 <br>
+<p>由于某些依据相关法律法规<a href="https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%B3%95%E6%B2%BB">不能说的原因</a>(维基百科需梯子)，我国的技术行业的法律体系并不怎么好(<a href="http://shzcfy.hshfy.sh.cn/">但是最近有所改观</a>),而且新领域很少利用<a href="http://auto.163.com/15/1010/19/B5JCHO4P00084TV1.html">旧领域的法律</a>。For example,在2010年的<a href="http://baike.baidu.com/link?url=yeYsiZj7-wpyuhszwhwGe5F0CtCSrQWcMKo9FIIcTfcRxK2WhrNkism35eeVx3qlJURNAMGtWRcPQkgQ24hhR7he8Xm7Td4q-cX3Y7QZxWLBOQ81xs17EJIYWXir9Atw8iwjvrXYOPFbGoc4h5Hi72jAnRAX5W954Nxz0QRYliu">“3Q大战”</a>，腾讯和360就像《<a href="http://www.bilibili.com/video/av3584963/">孩子气的战争</a>》里的镜音双子，互相滑稽而幼稚地斗气。 <br>
 但，他们其实势同水火。 <br>
-据新兴的，政府倡导的”互联网+”大潮中，有好事者提出了”BAT”的理论，但是”bat” <br>
+新兴的，政府倡导的”互联网+”大潮中，有好事者提出了”BAT”的理论，但是”bat” <br>
 的词汇很不优雅，似乎在暗示这是以他们的黑历史数量多少排列的。如果按照势力和发展前途来看，似乎应该是”Tab”。 <br>
 <strong>开讲之前，俺先给列位看官来点自创的眼前一亮的小笑话：程序猿之死</strong></p>
 
@@ -15,11 +15,8 @@
 <p><div class="toc">
 <ul>
 <li><a href="#司法改革的必要性浅谈大陆互联网大公司黑历史">司法改革的必要性——浅谈大陆互联网大公司黑历史</a><ul>
-<li><a href="#百度的黑历史">百度的黑历史</a><ul>
-<li><a href="#百度的黄段子">百度的黄段子</a></li>
-</ul>
-</li>
-<li><a href="#title">#</a></li>
+<li><a href="#百度的黄段子俺向sox致敬">百度的黄段子(俺向SOX致敬)</a></li>
+<li><a href="#百度对病人的忽悠">百度对病人的忽悠</a></li>
 </ul>
 </li>
 </ul>
@@ -27,8 +24,6 @@
 </p>
 
 <hr>
-
-<h1 id="百度的黑历史">百度的黑历史</h1>
 
 <p>显然，百度作为<a href="https://zh.wikipedia.org/wiki/%E8%B0%B7%E6%AD%8C%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BA%8B%E4%BB%B6">利用政策上位</a>(维基百科需梯子)的公司，其搜索引擎业务的水平真的难以恭维(相对谷歌与Bing而言)。</p>
 
@@ -39,7 +34,7 @@
 惜哉，百度现在才是”很黄很暴力”滴。 <br>
 有图为证 <br>
 <img src="https://pic4.zhimg.com/ccb6fa3518d1fb5a0a217aa1902c7d7f_b.jpg" alt="enter image description here" title=""> <br>
-<img src="https://pic1.zhimg.com/50fde4c5af0ae68d4eb50315fb07f1d8_b.jpg" alt="enter image description here" title=""> <br>
+<img src="https://pic4.zhimg.com/fe12df421c5a56f5738c8374bb8e957b_b.jpg" alt="enter image description here" title=""> <br>
 (知乎网友:五毛上人  回答的  <a href="https://www.zhihu.com/question/33267404/answer/56901547">“为什么老师说「百度搜索不是什么正经的东西」？”</a>) <br>
 不过捏，百度在衣食父母的<a href="http://www.hljtv.com/ceshi/ks/wangyue/">净网活动</a>中软了下来。 <br>
 <img src="https://camo.githubusercontent.com/7cb92d0067bb827e0ad00dcb0d6b32cf8e195786/687474703a2f2f696d677372632e62616964752e636f6d2f666f72756d2f773d3538302f7369676e3d39323064363439663763336536373039626530303435663730626336396662382f353030323164393530613762303230383465376661373539363164396632643335363263633864632e6a7067" alt="enter image description here" title=""> <br>
@@ -68,10 +63,23 @@
 
 <p>列位看官，这只是溜溜缝的开胃菜，下面才是正餐</p>
 
+
+
 <h2 id="百度对病人的忽悠">百度对病人的忽悠</h2>
 
-<p>grjnbsbjlbr <br>
-gmrebm</p>
+<p><a href="http://tech.163.com/16/0111/13/BD27EV5K000915BF.html">血友病吧被卖掉</a>这桩事情想必列位会上网的看官都知道了。 <br>
+但是捏</p>
+
+<blockquote>
+  <p>天下苦秦久矣 <br>
+  《史记●陈涉世家》</p>
+</blockquote>
+
+<p>又曰</p>
+
+<blockquote>
+  <p>冰冻三尺非一日之寒</p>
+</blockquote>
 
 <hr>
 
