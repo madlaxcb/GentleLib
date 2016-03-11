@@ -1,0 +1,92 @@
+俺的疫苗与美化小工具
+=======
+
+
+----------
+
+
+[TOC]
+
+##写在前面的话##
+
+      
+
+在这个页面里俺链接了在github的"Files"仓库上存储的签名，如果有时常经由google得瑟的高手，也可再去按找俺从墙外抄来的的教程给CNNIC打上疫苗。
+其实打疫苗老简单辣!
+1.双击证书。
+2.安装证书------>下一步------>选择"将所有证书放入下列存储"------>浏览------->不信任的证书------->确定--------->下一步------->完成
+**但是要小心，如果UAC被关闭了，那就好玩了<(￣︶￣)↗ **
+**( 所以这个教程只适用于【windows原版】)**
+打完疫苗一定要实验，成功的话应该是如下图
+![enter image description here](http://himg2.huanqiu.com/attachment2010/2015/1124/20151124111709145.jpg)
+
+
+----------
+
+
+##大众的疫苗
+###**23**屎**5**的疫苗
+这个2345能够荣膺俺的第一名是因为它太太太流氓了!
+(就连俺都被23屎5搞过<del>强行的屁♂眼交易</del>)(著者按)
+> ["2345.com劫持，新型网络传销？"下——“凡时”的答案（知乎）](https://www.zhihu.com/question/21515163/answer/18500287)
+>[“ 2345怎么可以这么贱？”下——“已上车”的答案（知乎）](https://www.zhihu.com/question/22132143/answer/29138177)
+
+**注意**：这个证书只能支持到2016年也就是今年五月!
+注意随时同步俺的更新内容!
+[2345的证书](https://github.com/th00/Files/blob/master/2345%28To2016-5-23%29.cer?raw=true)
+
+###百度的疫苗
+这个，你支持百度，等于你你也有责任吧。
+> [百度的黑科技](https://www.zhihu.com/question/26159910/answer/68782602)
+> [百度捆绑垃圾软件是穷疯了吗？](https://www.zhihu.com/question/34870256/answer/83006115)
+> [如何评价「北大女神摆摊免费为中老年人安装百度手机助手走红」？](https://www.zhihu.com/question/40657947/answer/88372918)
+> [百度全家桶都包含哪些产品？](https://www.zhihu.com/question/29816213/answer/64238094)
+
+这是它的证书
+[百度的证书](https://github.com/th00/Files/blob/master/BAIDU%28To2017-2-12%29.cer?raw=true)
+**注意**：由于【百度云管家】的签名是"BeiJing Baidu Netcom Science Technology Co., Ltd"**不是**此签名所以对云盘的安装是「大丈夫」的!
+
+###**360**的疫苗
+360业已垂垂老矣，似乎被抛出了互联网，哪一家都不待见它，但是捏：
+
+> 百足之虫，死而不僵
+
+想一想还是上一下它的证书吧。
+[360的证书](https://github.com/th00/Files/blob/master/360%28To2019-3-29%29.cer?raw=true)
+
+###疼讯的疫苗
+腾讯除了靠火麒麟和抄袭祸害社会之外就没别的破事了。
+显然它虽然在软件方面不算可恨，但是俺加上它的证书，是为了铭记。
+![enter image description here](https://github.com/th00/Files/blob/master/f11f3a292df5e0fe57cd7bae5f6034a85fdf724c.jpg?raw=true)
+原创梦，白日梦。
+[疼讯的证书](https://github.com/th00/Files/blob/master/Tencent%28To2019-3-29%29.cer?raw=true)
+##为大众准备的美化与优化
+###优化运行
+计算机------>右键【属性】------>高级系统设置----->("性能"下的)设置---->视觉效果选项卡--->选“自定义”--->只勾选"平滑字体边缘"、"显示缩略图而不是显示图标"、"在窗口和按钮上使用视觉样式"(只有这三个有明显的效果),除此之外，桌面右键“个性化”--->"windows basic"(因为AERO不仅费内存显存还没用)
+###美化运行
+这里俺准备了一个[bat文件](https://github.com/th00/Files/blob/master/%E5%8E%BB%E6%8E%89%E5%B0%8F%E7%AE%AD%E5%A4%B4%28%E8%AF%B7%E4%BB%A5%E7%AE%A1%E7%90%86%E5%91%98%E6%9D%83%E9%99%90%E8%BF%90%E8%A1%8C%29.bat)(由[SUPERMOVE](http://blog.sina.com.cn/s/blog_5d2ced280100ocvb.html)编写)
+可以去掉快捷方式的小箭头。
+##为高阶玩家准备的大礼包
+想必各位看到这一节的用家一定知道https的证书是可以伪造的，就好比任何一个有初步工业水准的国际都能生产核子武器(但国际条约可限制他们)
+如果有人伪造了"google"的https证书搭配DNS搞中间人攻击，欺骗你在伪造的"google accounts"登录，骗走你的谷歌账户，呵呵，画面太美不敢想(╯—﹏—)╯（ ┷━━━┷ 
+但是,CNNIC授权的埃及MSC集团就真的筹划[弄个大新闻](http://www.williamlong.info/archives/4183.html)，尽管事后CNNIC[声称](http://www.cnnic.net.cn/gywm/xwzx/xwzxtzgg/201503/t20150325_52018.htm)这是<del>临时工所为</del>"内部实验"。
+###CNNIC的全家桶
+(只有这个是以
+-----BEGIN CERTIFICATE-----
+...
+-----END CERTIFICATE-----
+形式构成，请先打入txt再改后缀名)(作者按)
+[CNNIC_ROOT](https://github.com/th00/Files/blob/master/CNNIC%20ROOT.cer)
+[CNNIC_SSL_Before_2010.03.01](https://github.com/th00/Files/blob/master/CNNIC_SSL_Before_2010.03.01.cer)
+[CNNIC_SSL_After_2010.03.01](https://github.com/th00/Files/blob/master/CNNIC_SSL_After_2010.03.01.cer)
+[CNNIC_SSL](https://github.com/th00/Files/blob/master/CNNIC_SSL.cer)
+[Entrust.net Secure Server Certification Authority](https://github.com/th00/Files/blob/master/Entrust.net%20Secure%20Server%20Certification%20Authority.cer)
+###这是俺找来的教程
+包括了【firefox】和【windows本体】的部分，十分详尽。但是它是在这件事情发生前著作的，而且也是基于【windows xp】的。
+[教程链接](https://github.com/th00/Files/blob/master/CNNIC%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.rtf?raw=true)(由于是【RTF格式，无需WORD】)
+
+
+
+
+
+
