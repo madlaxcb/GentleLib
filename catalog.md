@@ -6,21 +6,35 @@
 
 <p><div class="toc">
 <ul>
-<li><a href="#绅士自由舱的目录">绅士自由舱的目录</a></li>
+<li><a href="#绅士自由舱的目录">绅士自由舱的目录</a><ul>
+<li><a href="#邸报坊言">「邸报坊言」</a></li>
+<li><a href="#奇门遁甲">【奇门遁甲】</a></li>
+<li><a href="#天工开物">〔天工开物〕</a></li>
+<li><a href="#六艺经传">〈六艺经传〉</a></li>
+</ul>
+</li>
 </ul>
 </div>
 </p>
 
-<h2 id="邸报坊言"><font color="    #00F5FF">「邸报坊言」</font></h2>
+
+
+<h2 id="邸报坊言">「邸报坊言」</h2>
 
 <hr>
 
-<h2 id="奇门遁甲"><font color="#EEEE00">【奇门遁甲】</font></h2>
+
+
+<h2 id="奇门遁甲">【奇门遁甲】</h2>
 
 <hr>
 
-<h2 id="天工开物"><font color="#54FF9F">〔天工开物〕</font></h2>
+
+
+<h2 id="天工开物">〔天工开物〕</h2>
 
 <hr>
 
-<h2 id="六艺经传"><font color="#CD0000">〈六艺经传〉</font></h2>
+<p><a href="https://github.com/th00/GentleLib/blob/master/vaccine.html">俺的疫苗与美化小工具</a> 2016-3-11</p>
+
+<h2 id="六艺经传">〈六艺经传〉</h2>
