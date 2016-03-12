@@ -149,4 +149,5 @@
 
 <p>包括了【firefox】和【windows本体】的部分，十分详尽。但是它是在这件事情发生前著作的，而且也是基于【windows xp】的。 <br>
 <a href="https://github.com/th00/Files/blob/master/CNNIC%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97.rtf?raw=true">教程链接</a>(由于是【RTF格式，无需WORD】)</p>
+<hr>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/cn/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。
