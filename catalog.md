@@ -27,9 +27,9 @@
 
 <h2 id="奇门遁甲">【奇门遁甲】</h2>
 
+<p><a href="https://github.com/th00/GentleLib/blob/master/Deploy_Windows7.md">[从装机到就绪]开源链条</a> 2016-3-25</p>
+
 <hr>
-
-
 
 <h2 id="天工开物">〔天工开物〕</h2>
 
