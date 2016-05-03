@@ -78,8 +78,6 @@
   <a href="https://www.zhihu.com/question/22132143/answer/29138177">“ 2345怎么可以这么贱？”下——“已上车”的答案（知乎）</a></p>
 </blockquote>
 
-<p><strong>注意</strong>：这个证书只能支持到2016年也就是今年五月! <br>
-注意随时同步俺的更新内容! <br>
 <a href="https://github.com/th00/vaccine/blob/master/2345%28To2016-5-23%29.cer?raw=true">2345的证书</a></p>
 
 
